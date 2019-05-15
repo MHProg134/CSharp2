@@ -1,0 +1,5 @@
+C:\UW C#\Class 2\Homework 3\Homework3\obj\Debug\Homework3.csprojAssemblyReference.cache
+C:\UW C#\Class 2\Homework 3\Homework3\obj\Debug\MainWindow.g.cs
+C:\UW C#\Class 2\Homework 3\Homework3\obj\Debug\App.g.cs
+C:\UW C#\Class 2\Homework 3\Homework3\obj\Debug\Homework3_MarkupCompile.cache
+C:\UW C#\Class 2\Homework 3\Homework3\obj\Debug\Homework3_MarkupCompile.lref
