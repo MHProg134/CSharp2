@@ -1,0 +1,19 @@
+﻿<Window x:Class="Homework_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework_4"
+        mc:Ignorable="d"
+        Title="Postal Code Check" Height="250" Width="350">
+
+    <StackPanel>
+        <Label x:Name="uxLabel" Content="Enter the Postal Code:" 
+               Width ="200" Margin="10" HorizontalContentAlignment="Center" />
+        <TextBox x:Name="uxPostalCode" Width =" 200" Margin="10" TextChanged="UxPostalCode_TextChanged"/>
+        <Button x:Name="uxSubmit" 
+                Height="40" Width ="100" Content="Submit" Margin="10" 
+                Click="UxSubmit_Click" IsEnabled="False"/>
+    </StackPanel>
+
+</Window>
